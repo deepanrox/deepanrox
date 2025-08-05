@@ -9,3 +9,6 @@ Heyy there 👋, I'm Deepan Chandru
 <a href="https://www.hackerrank.com/deepanchandru10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepanchandru10" height="30" width="40" /></a>
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=deepanrox&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="deepanroxtoplangs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepanrox&theme=midnight-purple&show_icons=true&locale=en" alt="deepanroxstats" /></p>
+<p><img align="center" src ="https://streak-stats.demolab.com?user=deepanrox&theme=violet-punch" alt="deepanrox"/></p>
