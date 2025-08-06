@@ -1,4 +1,4 @@
-Heyy there 👋, I'm Deepan Chandru
+<h1 align="center">Heyy there 👋, I'm Deepan Chandru</h1>
 
 📫 How to reach me **deepanchandru10@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanrox&label=Profile%20views&color=0e75b6&style=flat" alt="deepanrox" /> </p>
